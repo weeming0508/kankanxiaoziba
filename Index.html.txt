@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+
+<meta name="description"content="www.12345.com">
+<meta name="keywords"content="www.12345.com">
+<meta charset="utf-8">
+<meta name="viewport"content="width=device-width,initial-scale=1"/>
+<title>;(</title>
+<link href="style/main.css"rel="stylesheet">
+</head>
+<style>
+
+</style>
+<body>
+	<div class="box"align="center">
+		<p>。。。。。。。。</p>
+	</div>
+</body>
+</html>
